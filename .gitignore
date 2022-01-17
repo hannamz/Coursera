@@ -1,0 +1,13 @@
+*.mp4
+model.pkl.*
+videos/
+data/
+support_files/
+tmp2/
+model/
+model_test/
+testing_support_files/
+test_model/
+nltk_data/
+output_dir/
+test_support_files/
